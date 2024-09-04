@@ -11,7 +11,7 @@ import Reshma from '../constants/images/team3.jpeg';
 import Neenu from '../constants/images/team4.jpeg';
 import Nidhuna from '../constants/images/team5.jpeg';
 import Anamika from '../constants/images/team6.jpeg';
-import Nandu from '../constants/images/team7.jpeg';
+import Nandu from '../constants/images/team77.jpeg';
 import Varada from '../constants/images/team8.jpeg';
 import Sharon from '../constants/images/team9.jpeg';
 const About = () => {
