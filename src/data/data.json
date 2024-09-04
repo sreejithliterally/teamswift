@@ -1,0 +1,159 @@
+{
+    "Header": {
+      "title": "Gluping - Innovative Tech Solutions",
+      "paragraph": "We provide top-notch web, app, and software development services, leveraging cutting-edge technology to create impactful solutions."
+    },
+    "About": {
+      "paragraph": "At Gluping, we are committed to delivering exceptional web, app, and software development services. Our goal is to use the revenue generated from these services to fund the development of our innovative products, including a groundbreaking travel app and the Hogspot project.",
+      "Why": [
+        "Expert web development",
+        "Custom app solutions",
+        "Advanced software development",
+        "Innovative ML and AI projects"
+      ],
+      "Why2": [
+        "Commitment to quality",
+        "Client-centric approach",
+        "Experienced team",
+        "Innovative solutions"
+      ]
+    },
+    "Gallery": [
+      {
+        "title": "Chilla Project",
+        "largeImage": "/img/works/chilla.jpg",
+        "smallImage": "/img/works/chilla.jpg"
+      },
+      {
+        "title": "Phisherx Project",
+        "largeImage": "/img/works/phisherx.png",
+        "smallImage": "/img/works/phisherx.png"
+      },
+      {
+        "title": "Gym Project",
+        "largeImage": "/img/works/gym.png",
+        "smallImage": "/img/works/gym.png"
+      },
+      {
+        "title": "DohaaProject",
+        "largeImage": "/img/works/doha.jpeg",
+        "smallImage": "/img/works/doha.jpeg"
+      },
+      {
+        "title": "Hogspot Project",
+        "largeImage": "/img/works/hogspot.jpeg",
+        "smallImage": "/img/works/hogspot.jpeg"
+      },
+      {
+        "title": "Pollution Project",
+        "largeImage": "/img/pollution.jpg",
+        "smallImage": "/img/pollution.jpg",
+        "pdf": "/img/pollution.pdf"
+      },
+      {
+        "title": "Attendance Project",
+        "largeImage": "/img/attendance.jpg",
+        "smallImage": "/img/attendance.jpg",
+        "pdf": "/img/attandance.pdf"
+      }
+      
+    ],
+    "Services": [
+      {
+        "icon": "fa fa-code",
+        "name": "Web Development",
+        "text": "Creating responsive and modern websites to enhance your online presence."
+      },
+      {
+        "icon": "fa fa-mobile",
+        "name": "App Development",
+        "text": "Building mobile applications for Android and iOS platforms."
+      },
+      {
+        "icon": "fa fa-laptop",
+        "name": "Software Solutions",
+        "text": "Developing custom software to meet your business needs."
+      },
+      {
+        "icon": "fa fa-code",
+        "name": "Machine Learning & AI",
+        "text": "Implementing advanced ML and AI solutions to solve complex problems."
+      },
+      {
+        "icon": "fa fa-rocket",
+        "name": "Innovation",
+        "text": "Pioneering innovative solutions to stay ahead of the curve."
+      },
+      {
+        "icon": "fa fa-globe",
+        "name": "Global Reach",
+        "text": "Providing services to clients worldwide, ensuring quality and satisfaction."
+      }
+    ],
+    "Testimonials": [
+      {
+        "img": "img/testimonials/abijith.jpg",
+        "text": "\"Gluping's web development services exceeded our expectations! Their expertise and dedication are unmatched. They developed a Uniform Detection Attendance System, a web app for our college project, which worked flawlessly.\"",
+        "name": "Abijith C A"
+      },
+      {
+        "img": "img/testimonials/hafiz.jpeg",
+        "text": "\"The app Gluping developed for us has transformed our business. Highly recommend their services. They created a Pollution Detection System using ML and Raspberry Pi that has been incredibly effective.\"",
+        "name": "Hafiz"
+      },
+      {
+        "img": "img/testimonials/hemanth.jpg",
+        "text": "\"Gluping's AI solutions helped us optimize our operations and achieve better results. They built PhisherX, an ML-based phishing detection web app, which has significantly enhanced our security.\"",
+        "name": "Hemanth C"
+      }
+     
+    ],
+    "Team": [
+      {
+        "img": "img/team/bins.jpg",
+        "name": "Abhishek S",
+        "job": " CO Founder"
+      },
+      {
+        "img": "img/team/dikru.jpg",
+        "name": "Sreejith S",
+        "job": "CO Founder"
+      },
+      {
+        "img": "img/team/nevin.jpg",
+        "name": "Nevin Sebastian",
+        "job": "CO Founder"
+      }
+      
+    ],
+    "Contact": {
+      "address": "Padinjaredath building, thaikattukara p.o, RA 113, Behind Ambattukavu Metro station,Metro pillar number 146, Aluva, 683106",
+      "phone": "+91 9567743699",
+      "email": "thegluping@gmail.com",
+      "facebook": "https://github.com/gluping/",
+      "twitter": "twitter.com/gluping",
+      "youtube": "youtube.com/gluping"
+    },
+    "Features": [
+      {
+        "icon": "fa fa-comments-o",
+        "title": "Client Communication",
+        "text": "We maintain open and transparent communication with our clients."
+      },
+      {
+        "icon": "fa fa-laptop",
+         "title": "ML & AI Solutions",
+      "text": "Implementing cutting-edge machine learning and artificial intelligence solutions to transform your business operations and drive innovation."
+    },
+      {
+        "icon": "fa fa-group",
+        "title": "Team Collaboration",
+        "text": "Our team works collaboratively to deliver the best results."
+      },
+      {
+        "icon": "fa fa-magic",
+        "title": "Creative Designs",
+        "text": "Innovative and creative designs to make your brand stand out."
+      }
+    ]
+  }
