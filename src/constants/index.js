@@ -30,13 +30,12 @@ import {
       id: "about",
       title: "About",
     },
-    {
-      id: "work",
-      title: "Work",
-    },
+   
     {
       id: "contact",
       title: "Contact",
+      isExternal: true, // Add this property to signify it's an external link
+      url: "https://wa.me/+918157847438?text=Hi%20Team%20Swift!", // Replace <YourPhoneNumber> with your WhatsApp number
     },
   ];
   
